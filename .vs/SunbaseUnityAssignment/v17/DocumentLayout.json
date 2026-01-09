@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\SunbaseUnityAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|d:\\projects\\sunbaseunityassignment\\assets\\scripts\\core\\scenenavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\scenenavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|d:\\projects\\sunbaseunityassignment\\assets\\scripts\\core\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|D:\\projects\\SunbaseUnityAssignment\\assets\\scripts\\core\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|D:\\projects\\SunbaseUnityAssignment\\assets\\scripts\\game\\linedrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\linedrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|D:\\projects\\SunbaseUnityAssignment\\assets\\scripts\\game\\circlespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\circlespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|D:\\projects\\SunbaseUnityAssignment\\assets\\scripts\\game\\restartbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\restartbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|D:\\projects\\SunbaseUnityAssignment\\assets\\scripts\\ui\\clientlistui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\clientlistui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|D:\\projects\\SunbaseUnityAssignment\\assets\\scripts\\ui\\clientpopupui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\clientpopupui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|D:\\projects\\SunbaseUnityAssignment\\assets\\scripts\\ui\\clientitemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\clientitemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|D:\\projects\\SunbaseUnityAssignment\\assets\\scripts\\core\\apimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\apimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|D:\\projects\\SunbaseUnityAssignment\\assets\\scripts\\core\\clientresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\clientresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|D:\\projects\\SunbaseUnityAssignment\\assets\\scripts\\core\\clientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\clientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|D:\\projects\\SunbaseUnityAssignment\\assets\\scripts\\core\\cleanclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\cleanclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|D:\\projects\\SunbaseUnityAssignment\\assets\\scripts\\core\\datawrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\datawrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|D:\\projects\\SunbaseUnityAssignment\\assets\\scripts\\core\\clientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\clientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|D:\\projects\\SunbaseUnityAssignment\\assets\\scripts\\core\\rawresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\rawresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|D:\\projects\\SunbaseUnityAssignment\\assets\\scripts\\core\\rawclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\rawclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|D:\\projects\\SunbaseUnityAssignment\\assets\\scripts\\core\\clientdatawrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\clientdatawrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|D:\\projects\\SunbaseUnityAssignment\\assets\\scripts\\core\\clientdataentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\clientdataentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|D:\\projects\\SunbaseUnityAssignment\\assets\\scripts\\core\\clientdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E648C6B-D925-D730-C859-61C26E2BEA10}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\clientdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SceneNavigation.cs",
+              "DocumentMoniker": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\SceneNavigation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\SceneNavigation.cs",
+              "ToolTip": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\SceneNavigation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\SceneNavigation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T00:44:27.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenuUI.cs",
+              "DocumentMoniker": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\MainMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\MainMenuUI.cs",
+              "ToolTip": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\MainMenuUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\MainMenuUI.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T00:33:37.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\AudioManager.cs",
+              "ToolTip": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T18:33:24.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RestartButton.cs",
+              "DocumentMoniker": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Game\\RestartButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\RestartButton.cs",
+              "ToolTip": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Game\\RestartButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\RestartButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T16:18:21.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LineDrawer.cs",
+              "DocumentMoniker": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Game\\LineDrawer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\LineDrawer.cs",
+              "ToolTip": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Game\\LineDrawer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\LineDrawer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAkwEcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T16:15:02.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CircleSpawner.cs",
+              "DocumentMoniker": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Game\\CircleSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\CircleSpawner.cs",
+              "ToolTip": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Game\\CircleSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\CircleSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T16:11:43.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataWrapper.cs",
+              "DocumentMoniker": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\DataWrapper.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\DataWrapper.cs",
+              "ToolTip": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\DataWrapper.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\DataWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T15:32:00.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CleanClient.cs",
+              "DocumentMoniker": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\CleanClient.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\CleanClient.cs",
+              "ToolTip": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\CleanClient.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\CleanClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T15:29:05.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientItemUI.cs",
+              "DocumentMoniker": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\UI\\ClientItemUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ClientItemUI.cs",
+              "ToolTip": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\UI\\ClientItemUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ClientItemUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:47:45.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientListUI.cs",
+              "DocumentMoniker": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\UI\\ClientListUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ClientListUI.cs",
+              "ToolTip": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\UI\\ClientListUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ClientListUI.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:54:22.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientModel.cs",
+              "DocumentMoniker": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\ClientModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\ClientModel.cs",
+              "ToolTip": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\ClientModel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\ClientModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:37:08.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientResponse.cs",
+              "DocumentMoniker": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\ClientResponse.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\ClientResponse.cs",
+              "ToolTip": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\ClientResponse.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\ClientResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:57:38.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientPopupUI.cs",
+              "DocumentMoniker": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\UI\\ClientPopupUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ClientPopupUI.cs",
+              "ToolTip": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\UI\\ClientPopupUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ClientPopupUI.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA5wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:00:21.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "APIManager.cs",
+              "DocumentMoniker": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\APIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\APIManager.cs",
+              "ToolTip": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\APIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\APIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:34:15.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClientData.cs",
+              "DocumentMoniker": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\ClientData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\ClientData.cs",
+              "ToolTip": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\ClientData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\ClientData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T15:31:28.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RawResponse.cs",
+              "DocumentMoniker": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\RawResponse.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\RawResponse.cs",
+              "ToolTip": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\RawResponse.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\RawResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T15:30:08.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RawClient.cs",
+              "DocumentMoniker": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\RawClient.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\RawClient.cs",
+              "ToolTip": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\RawClient.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\RawClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T15:29:36.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClientDataEntry.cs",
+              "DocumentMoniker": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\ClientDataEntry.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\ClientDataEntry.cs",
+              "ToolTip": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\ClientDataEntry.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\ClientDataEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T15:20:11.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClientDataWrapper.cs",
+              "DocumentMoniker": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\ClientDataWrapper.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\ClientDataWrapper.cs",
+              "ToolTip": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\ClientDataWrapper.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\ClientDataWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T15:21:04.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClientDetail.cs",
+              "DocumentMoniker": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\ClientDetail.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\ClientDetail.cs",
+              "ToolTip": "D:\\projects\\SunbaseUnityAssignment\\Assets\\Scripts\\Core\\ClientDetail.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\ClientDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T15:15:21.058Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
