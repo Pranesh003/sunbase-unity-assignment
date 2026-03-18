@@ -1,4 +1,5 @@
 [System.Serializable]
+
 public class ClientDetail
 {
     public string name;
