@@ -7,4 +7,5 @@ public class SceneNavigation : MonoBehaviour
     {
         SceneManager.LoadScene("MainMenu");
     }
+    
 }
